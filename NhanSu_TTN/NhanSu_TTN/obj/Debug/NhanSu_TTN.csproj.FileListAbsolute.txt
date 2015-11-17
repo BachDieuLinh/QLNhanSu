@@ -1,1 +1,2 @@
 c:\users\administrator\documents\visual studio 2012\Projects\NhanSu_TTN\NhanSu_TTN\bin\Debug\NhanSu_TTN.exe.config
+C:\Users\huyen de\Documents\GitHub\QLNhanSu\NhanSu_TTN\NhanSu_TTN\bin\Debug\NhanSu_TTN.exe.config
