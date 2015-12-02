@@ -20,3 +20,4 @@ D:\Study Kỳ 1 năm 4\Github\QLNhanSu\HUYEN2_form-database\QLY_NHANSU\QLY_NHANS
 D:\Study Kỳ 1 năm 4\Github\QLNhanSu\HUYEN2_form-database\QLY_NHANSU\QLY_NHANSU\obj\Debug\QLY_NHANSU.Properties.Resources.resources
 D:\Study Kỳ 1 năm 4\Github\QLNhanSu\HUYEN2_form-database\QLY_NHANSU\QLY_NHANSU\obj\Debug\QLY_NHANSU.frmDangNhap.resources
 D:\Study Kỳ 1 năm 4\Github\QLNhanSu\HUYEN2_form-database\QLY_NHANSU\QLY_NHANSU\obj\Debug\QLY_NHANSU.csproj.GenerateResource.Cache
+D:\Study Kỳ 1 năm 4\Github\QLNhanSu\HUYEN2_form-database\QLY_NHANSU\QLY_NHANSU\obj\Debug\QLY_NHANSU.frmHuongDan.resources

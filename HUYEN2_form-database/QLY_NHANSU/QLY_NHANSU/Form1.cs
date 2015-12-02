@@ -38,5 +38,13 @@ namespace QLY_NHANSU
             frmDangNhap frm_dn = new frmDangNhap();
             frm_dn.Close();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            frmHuongDan frm = new frmHuongDan();
+            frm.ShowDialog();
+            frm.Close();
+            frm.Dispose();
+        }
     }
 }
