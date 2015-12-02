@@ -13,7 +13,7 @@ namespace QLY_NHANSU
         SqlConnection kn = new SqlConnection();
         static public String connect()
         {
-            return @"Data Source=VAIO;Initial Catalog=QUANLY_NHANSU;Integrated Security=True";
+            return @"Data Source=HOME;Initial Catalog=QUANLY_NHANSU;Integrated Security=True";
         }    
     }
 }

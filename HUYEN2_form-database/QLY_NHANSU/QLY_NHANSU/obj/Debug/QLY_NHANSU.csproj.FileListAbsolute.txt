@@ -9,3 +9,14 @@ C:\Users\huyen de\Documents\Visual Studio 2012\Projects\QLY_NHANSU\QLY_NHANSU\ob
 C:\Users\huyen de\Documents\Visual Studio 2012\Projects\QLY_NHANSU\QLY_NHANSU\obj\Debug\QLY_NHANSU.pdb
 C:\Users\huyen de\Documents\Visual Studio 2012\Projects\QLY_NHANSU\QLY_NHANSU\obj\Debug\QLY_NHANSU.frmDangNhap.resources
 C:\Users\huyen de\Documents\Visual Studio 2012\Projects\QLY_NHANSU\QLY_NHANSU\obj\Debug\QLY_NHANSU.frm_NV.resources
+D:\Study Kỳ 1 năm 4\Github\QLNhanSu\HUYEN2_form-database\QLY_NHANSU\QLY_NHANSU\bin\Debug\QLY_NHANSU.exe.config
+D:\Study Kỳ 1 năm 4\Github\QLNhanSu\HUYEN2_form-database\QLY_NHANSU\QLY_NHANSU\obj\Debug\QLY_NHANSU.exe
+D:\Study Kỳ 1 năm 4\Github\QLNhanSu\HUYEN2_form-database\QLY_NHANSU\QLY_NHANSU\obj\Debug\QLY_NHANSU.pdb
+D:\Study Kỳ 1 năm 4\Github\QLNhanSu\HUYEN2_form-database\QLY_NHANSU\QLY_NHANSU\bin\Debug\QLY_NHANSU.exe
+D:\Study Kỳ 1 năm 4\Github\QLNhanSu\HUYEN2_form-database\QLY_NHANSU\QLY_NHANSU\bin\Debug\QLY_NHANSU.pdb
+D:\Study Kỳ 1 năm 4\Github\QLNhanSu\HUYEN2_form-database\QLY_NHANSU\QLY_NHANSU\obj\Debug\QLY_NHANSU.csprojResolveAssemblyReference.cache
+D:\Study Kỳ 1 năm 4\Github\QLNhanSu\HUYEN2_form-database\QLY_NHANSU\QLY_NHANSU\obj\Debug\QLY_NHANSU.Form1.resources
+D:\Study Kỳ 1 năm 4\Github\QLNhanSu\HUYEN2_form-database\QLY_NHANSU\QLY_NHANSU\obj\Debug\QLY_NHANSU.frm_NV.resources
+D:\Study Kỳ 1 năm 4\Github\QLNhanSu\HUYEN2_form-database\QLY_NHANSU\QLY_NHANSU\obj\Debug\QLY_NHANSU.Properties.Resources.resources
+D:\Study Kỳ 1 năm 4\Github\QLNhanSu\HUYEN2_form-database\QLY_NHANSU\QLY_NHANSU\obj\Debug\QLY_NHANSU.frmDangNhap.resources
+D:\Study Kỳ 1 năm 4\Github\QLNhanSu\HUYEN2_form-database\QLY_NHANSU\QLY_NHANSU\obj\Debug\QLY_NHANSU.csproj.GenerateResource.Cache
