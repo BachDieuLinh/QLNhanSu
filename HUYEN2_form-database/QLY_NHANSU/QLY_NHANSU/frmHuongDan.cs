@@ -32,34 +32,33 @@ namespace QLY_NHANSU
             }
             if (treeView1.SelectedNode.Name == "root_HD_Chinh")
             {
-                str = Application.StartupPath + "\\Huong Dan\\Form Chinh.mht";
+                str = Application.StartupPath + "\\Huong Dan\\Form Dang Nhap.mht";
                 webBrowser1.Navigate(str);
             }
             if (treeView1.SelectedNode.Name == "root_HD_DA")
             {
-                str = Application.StartupPath + "\\Huong Dan\\Form De An.mht";
+                str = Application.StartupPath + "\\Huong Dan\\Form Chinh.mht";
                 webBrowser1.Navigate(str);
             }
             if (treeView1.SelectedNode.Name == "root_HD_DV")
             {
-                str = Application.StartupPath + "\\Huong Dan\\Form Don Vi.mht";
+                str = Application.StartupPath + "\\Huong Dan\\Form Nhan Su.mht";
                 webBrowser1.Navigate(str);
             }
-            if (treeView1.SelectedNode.Name == "root_HD_NV")
-            {
-                str = Application.StartupPath + "\\Huong Dan\\Form Nhan Vien.mht";
-                webBrowser1.Navigate(str);
-            }
-            if (treeView1.SelectedNode.Name == "root_HD_PC")
-            {
-                str = Application.StartupPath + "\\Huong Dan\\Form Phan Cong.mht";
-                webBrowser1.Navigate(str);
-            }
-            if (treeView1.SelectedNode.Name == "root_HD_TN")
-            {
-                str = Application.StartupPath + "\\Huong Dan\\Form Than Nhan.mht";
-                webBrowser1.Navigate(str);
+            //if (treeView1.SelectedNode.Name == "root_HD_NV")
+            //{
+            //    str = Application.StartupPath + "\\Huong Dan\\Form Nhan Vien.mht";
+            //    webBrowser1.Navigate(str);
+            //}
+            //if (treeView1.SelectedNode.Name == "root_HD_PC")
+            //{
+            //    str = Application.StartupPath + "\\Huong Dan\\Form Phan Cong.mht";
+            //    webBrowser1.Navigate(str);
+            //}
+            //if (treeView1.SelectedNode.Name == "root_HD_TN")
+            //{
+            //    str = Application.StartupPath + "\\Huong Dan\\Form Than Nhan.mht";
+            //    webBrowser1.Navigate(str);
             }
         }
     }
-}

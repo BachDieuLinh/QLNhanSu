@@ -39,7 +39,15 @@ namespace QLY_NHANSU
             frm_dn.Close();
         }
 
-        private void button6_Click(object sender, EventArgs e)
+        //private void button6_Click(object sender, EventArgs e)
+        //{
+        //    frmHuongDan frm = new frmHuongDan();
+        //    frm.ShowDialog();
+        //    frm.Close();
+        //    frm.Dispose();
+        //}
+
+        private void helpToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             frmHuongDan frm = new frmHuongDan();
             frm.ShowDialog();

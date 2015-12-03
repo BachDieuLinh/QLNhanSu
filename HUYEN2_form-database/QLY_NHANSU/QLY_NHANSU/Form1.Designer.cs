@@ -37,7 +37,6 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.button6 = new System.Windows.Forms.Button();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
@@ -78,6 +77,7 @@
             this.helpToolStripMenuItem1.Name = "helpToolStripMenuItem1";
             this.helpToolStripMenuItem1.Size = new System.Drawing.Size(44, 20);
             this.helpToolStripMenuItem1.Text = "Help";
+            this.helpToolStripMenuItem1.Click += new System.EventHandler(this.helpToolStripMenuItem1_Click);
             // 
             // thoátToolStripMenuItem
             // 
@@ -134,15 +134,6 @@
             this.label4.TabIndex = 7;
             this.label4.Text = "Địa chỉ:  Tầng 2 - tòa nhà FIVIOCEAN- số 68 Hoàng Quốc Việt- Bắc Từ Liêm -Hà Nội";
             // 
-            // button6
-            // 
-            this.button6.Location = new System.Drawing.Point(718, 27);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(76, 74);
-            this.button6.TabIndex = 8;
-            this.button6.UseVisualStyleBackColor = true;
-            this.button6.Click += new System.EventHandler(this.button6_Click);
-            // 
             // pictureBox3
             // 
             this.pictureBox3.BackgroundImage = global::QLY_NHANSU.Properties.Resources.images_2;
@@ -176,7 +167,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Blue;
             this.ClientSize = new System.Drawing.Size(806, 424);
-            this.Controls.Add(this.button6);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -213,7 +203,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Button button6;
     }
 }
 

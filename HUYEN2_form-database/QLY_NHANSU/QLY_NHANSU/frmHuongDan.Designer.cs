@@ -33,19 +33,13 @@
             System.Windows.Forms.TreeNode treeNode3 = new System.Windows.Forms.TreeNode("GIỚI THIỆU CHUNG", new System.Windows.Forms.TreeNode[] {
             treeNode1,
             treeNode2});
-            System.Windows.Forms.TreeNode treeNode4 = new System.Windows.Forms.TreeNode("Form Chính");
-            System.Windows.Forms.TreeNode treeNode5 = new System.Windows.Forms.TreeNode("Form Đề Án");
-            System.Windows.Forms.TreeNode treeNode6 = new System.Windows.Forms.TreeNode("Form Đơn Vị");
-            System.Windows.Forms.TreeNode treeNode7 = new System.Windows.Forms.TreeNode("Form Nhân Viên");
-            System.Windows.Forms.TreeNode treeNode8 = new System.Windows.Forms.TreeNode("Form Phân Công");
-            System.Windows.Forms.TreeNode treeNode9 = new System.Windows.Forms.TreeNode("Form Thân Nhân");
-            System.Windows.Forms.TreeNode treeNode10 = new System.Windows.Forms.TreeNode("HƯỚNG DẪN SỬ DỤNG", new System.Windows.Forms.TreeNode[] {
+            System.Windows.Forms.TreeNode treeNode4 = new System.Windows.Forms.TreeNode("Form Đăng Nhập");
+            System.Windows.Forms.TreeNode treeNode5 = new System.Windows.Forms.TreeNode("Form Chính");
+            System.Windows.Forms.TreeNode treeNode6 = new System.Windows.Forms.TreeNode("Form Nhân sự");
+            System.Windows.Forms.TreeNode treeNode7 = new System.Windows.Forms.TreeNode("HƯỚNG DẪN SỬ DỤNG", new System.Windows.Forms.TreeNode[] {
             treeNode4,
             treeNode5,
-            treeNode6,
-            treeNode7,
-            treeNode8,
-            treeNode9});
+            treeNode6});
             this.treeView1 = new System.Windows.Forms.TreeView();
             this.webBrowser1 = new System.Windows.Forms.WebBrowser();
             this.SuspendLayout();
@@ -63,22 +57,16 @@
             treeNode3.Name = "root_GT";
             treeNode3.Text = "GIỚI THIỆU CHUNG";
             treeNode4.Name = "root_HD_Chinh";
-            treeNode4.Text = "Form Chính";
+            treeNode4.Text = "Form Đăng Nhập";
             treeNode5.Name = "root_HD_DA";
-            treeNode5.Text = "Form Đề Án";
+            treeNode5.Text = "Form Chính";
             treeNode6.Name = "root_HD_DV";
-            treeNode6.Text = "Form Đơn Vị";
-            treeNode7.Name = "root_HD_NV";
-            treeNode7.Text = "Form Nhân Viên";
-            treeNode8.Name = "root_HD_PC";
-            treeNode8.Text = "Form Phân Công";
-            treeNode9.Name = "root_HD_TN";
-            treeNode9.Text = "Form Thân Nhân";
-            treeNode10.Name = "root_HD";
-            treeNode10.Text = "HƯỚNG DẪN SỬ DỤNG";
+            treeNode6.Text = "Form Nhân sự";
+            treeNode7.Name = "root_HD";
+            treeNode7.Text = "HƯỚNG DẪN SỬ DỤNG";
             this.treeView1.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
             treeNode3,
-            treeNode10});
+            treeNode7});
             this.treeView1.Size = new System.Drawing.Size(228, 389);
             this.treeView1.TabIndex = 1;
             this.treeView1.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.treeView1_AfterSelect);
